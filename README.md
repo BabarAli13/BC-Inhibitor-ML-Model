@@ -1,0 +1,2 @@
+# AI-Driven-Deep-Learning-Models-for-predicting-inhibitor-sensitivity-in-Breast-Cancer
+A machine learning model to predict inhibitor sensitivity and resistance in breast cancer using molecular fingerprints (Morgan fingerprints) and Random Forest Classifier. This repository includes Python code for data preprocessing, model training, and evaluation, aimed at accelerating drug discovery and repurposing for breast cancer therapeutics.
